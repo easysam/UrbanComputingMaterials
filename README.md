@@ -9,8 +9,8 @@
 5. Graph Few-Shot Learning via Knowledge Transfer, AAAI 2020
 6. AutoSTG: Neural Architecture Search for  Predictions of Spatio-Temporal Graphs, WWW 2021
 ### GNN for ST prediction
-1. Spatiotemporal Multi-Graph Convolution Network for Ride-Hailing Demand Forecasting
-2. GMAN: A Graph Multi-Attention Network for Traffic Prediction
+1. Spatiotemporal Multi-Graph Convolution Network for Ride-Hailing Demand Forecasting, AAAI 2019
+2. GMAN: A Graph Multi-Attention Network for Traffic Prediction, AAAI 2020
 ## Data
 ### POI
 China POI: https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/WSXCNM
