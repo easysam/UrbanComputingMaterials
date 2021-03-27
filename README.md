@@ -4,6 +4,8 @@
 ### GNN
 1. Spatiotemporal Multi-Graph Convolution Network for Ride-Hailing Demand Forecasting, AAAI 2019
 2. GMAN: A Graph Multi-Attention Network for Traffic Prediction, AAAI 2020
+### Transfer Learning
+1. Where Will Dockless Shared Bikes be Stacked? — Parking Hotspots Detection in a New City, [code](https://github.com/TowardSun/mobike-hotspot-public)
 ### Meta Learning
 1. Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction, WWW 2019, [code](https://github.com/huaxiuyao/MetaST)
 2. Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning, KDD 2019, [code](https://github.com/panzheyi/ST-MetaNet)<br>
