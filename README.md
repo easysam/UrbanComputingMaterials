@@ -6,7 +6,7 @@
 2. GMAN: A Graph Multi-Attention Network for Traffic Prediction, AAAI 2020
 ### Meta Learning
 1. Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction, WWW 2019
-2. Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning, KDD 2019
+2. Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning, KDD 2019, [code](https://github.com/panzheyi/ST-MetaNet)
 3. Spatio-Temporal Meta Learning for Urban Traffic Prediction, TKDE 2020
 4. Graph Few-Shot Learning via Knowledge Transfer, AAAI 2020
 ### Auto ML
