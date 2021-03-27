@@ -12,7 +12,7 @@
 ### Auto ML
 1. AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction, KDD 2020
 2. AutoSTG: Neural Architecture Search for  Predictions of Spatio-Temporal Graphs, WWW 2021
-3. 
+
 ## Data
 ### POI
 China POI: https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/WSXCNM
